@@ -1,4 +1,5 @@
 # Site settings
+source: www
 title: Recipes
 email: recipes@doismellburning.co.uk
 description: "Recipes collected by doismellburning"
