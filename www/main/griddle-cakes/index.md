@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Griddle Cakes
+source: Helen
 ---
 
 ## Ingredients
