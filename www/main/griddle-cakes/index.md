@@ -1,4 +1,9 @@
-# Griddle Cakes
+---
+layout: recipe
+title: Griddle Cakes
+---
+
+## Ingredients
 
 * 250g plain flour
 * 3 tsp poppy seeds
@@ -10,4 +15,7 @@
 * 250ml milk
 * 1 egg
 
-Fry
+## Method
+
+1. Mix
+2. Fry
