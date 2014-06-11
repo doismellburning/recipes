@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Recipes
 ---
 
 This is an incomplete collection of recipes I've acquired and enjoyed and cooked and tweaked and loved.
