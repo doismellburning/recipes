@@ -1,4 +1,9 @@
-# TODO
+---
+layout: page
+title: To Try
+---
+
+Recipes I've been meaning to try:
 
 * Risotto
     * http://ediblearia.com/2011/02/04/creamy-risotto/

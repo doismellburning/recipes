@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+<div id="source">
+	{% if page.source_url %}
+		<a href="{{ page.source_url }}">
+	{% endif %}
+	{% if page.source_url or page.source %}
+		Original Source{% if page.source %}: {{ page.source }}{% endif %}
+	{% endif %}
+	{%if page.source_url %}
+		</a>
+	{% endif %}
+</div>
+<div>
+	{{ content }}
+</div>
