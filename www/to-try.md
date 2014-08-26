@@ -16,3 +16,6 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Feta-stuffed peppers](http://www.tasteofhome.com/recipes/feta-stuffed-peppers)
 * ["Rice"](http://www.reddit.com/r/Frugal/comments/2dga1n/what_are_some_recipes_with_beans_and_rice/cjp9dlp)
 * [Red lentil, chickpea and chilli soup](http://www.bbcgoodfood.com/recipes/333614/red-lentil-chickpea-and-chilli-soup) via @Sarah_Woolley
+* [Unicorn Tears](https://medium.com/stuff-and-more-stuff/making-a-unicorn-tear-dc25dd9a1c79)
+* [French Onion Soup](http://www.reddit.com/r/Cooking/comments/2ea7l9/french_onion_soup/)
+* [Cedar Plank Salmon](http://www.foodnetwork.com/recipes/cedar-plank-salmon-recipe.html)
