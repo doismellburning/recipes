@@ -19,3 +19,5 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Unicorn Tears](https://medium.com/stuff-and-more-stuff/making-a-unicorn-tear-dc25dd9a1c79)
 * [French Onion Soup](http://www.reddit.com/r/Cooking/comments/2ea7l9/french_onion_soup/)
 * [Cedar Plank Salmon](http://www.foodnetwork.com/recipes/cedar-plank-salmon-recipe.html)
+* [Tomato Bacon Pasta Bake](http://allrecipes.co.uk/recipe/32210/tomato-and-bacon-penne-pasta-bake.aspx)
+* [Various casseroles](https://www.reddit.com/r/Cooking/comments/2gag05/whats_your_go_to_casserole_recipe/)
