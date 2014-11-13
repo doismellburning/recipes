@@ -25,3 +25,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Gumbo](http://www.artofmanliness.com/2014/10/31/gumbo-yall-the-lowdown-on-making-this-louisana-classic/)
 * [Misc US copycat recipes](https://www.reddit.com/r/Cooking/comments/2l9i9w/whats_your_favorite_copycat_recipe/)
 * [Red lentil balls](https://www.reddit.com/r/Cooking/comments/2l626l/one_of_my_favorite_turkish_recipes_mercimek/)
+* [Assorted cheap easy recipes](https://imgur.com/gallery/FDlR2)
