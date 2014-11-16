@@ -1,6 +1,6 @@
 ---
 layout: recipe
-source: http://www.artofmanliness.com/2014/08/18/how-to-cook-with-booze-5-mouth-watering-alcohol-infused-recipes/
+source_url: http://www.artofmanliness.com/2014/08/18/how-to-cook-with-booze-5-mouth-watering-alcohol-infused-recipes/
 title: Penne a la Vodka
 ---
 
