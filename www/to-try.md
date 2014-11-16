@@ -30,3 +30,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Assorted Salmon Recipes](https://www.reddit.com/r/Cooking/comments/2m9aqv/r_cooking_i_have_happened_upon_about_10_pounds_of/)
 * [Watermelon curry](http://fxcuisine.com/Default.asp?language=2&Display=90&resolution=high)
 * [Salmon baked in foil with green beans](http://www.jamieshomecookingskills.com/recipe.php?title=salmon-baked-in-a-foil-parcel-with-green-beans-and)
+* [Samphire](http://www.bbc.co.uk/food/recipes/saltandpepperbuttere_88854)
