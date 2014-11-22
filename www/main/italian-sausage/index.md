@@ -29,6 +29,6 @@ Because buying Italian Sausages in the UK is less trivial than it seems in the U
 
 ## Notes
 
-* Works with sausagemeat instead of pork mince, but is less ideal
+* Works with sausagemeat instead of pork mince - crumbles a lot more nicely, but takes much longer to brown
 * The 24h wait isn't critical
 
