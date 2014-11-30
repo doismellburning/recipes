@@ -54,3 +54,9 @@ title: Penne a la Vodka
 * Used whole 300ml tub of whipping cream
 * Used whole bag of spinach
 * Didn't use any garlic or red pepper flakes
+
+### 2014-11-22
+
+* No garlic, no red pepper flakes, and Italian sausagemeat made with pork mince not English sausagemeat
+* 200g bag of spinach
+* Leaving the pasta in the water was easier but made for wetter, less-good sauce
