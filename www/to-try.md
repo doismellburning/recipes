@@ -31,3 +31,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Watermelon curry](http://fxcuisine.com/Default.asp?language=2&Display=90&resolution=high)
 * [Salmon baked in foil with green beans](http://www.jamieshomecookingskills.com/recipe.php?title=salmon-baked-in-a-foil-parcel-with-green-beans-and)
 * [Samphire](http://www.bbc.co.uk/food/recipes/saltandpepperbuttere_88854)
+* [Salmon Candy](https://imgur.com/a/W7iaB)
