@@ -32,3 +32,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Salmon baked in foil with green beans](http://www.jamieshomecookingskills.com/recipe.php?title=salmon-baked-in-a-foil-parcel-with-green-beans-and)
 * [Samphire](http://www.bbc.co.uk/food/recipes/saltandpepperbuttere_88854)
 * [Salmon Candy](https://imgur.com/a/W7iaB)
+* [Dipping sauces](https://www.reddit.com/r/Cooking/comments/2p995f/dipping_sauces_for_steamed_vegetables/)
