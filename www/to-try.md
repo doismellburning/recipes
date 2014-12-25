@@ -13,7 +13,6 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Spanish Beef](http://www.goodtoknow.co.uk/recipes/531276/spanish-beef)
 * [Mirepoix](https://en.wikipedia.org/wiki/Mirepoix_%28cuisine%29) (yes not exactly a recipe, but a good base for experimentation
 * ["Definitely not a Mexican recipe"](http://www.drmaciver.com/2014/08/definitely-not-a-mexican-recipe/)
-* [Feta-stuffed peppers](http://www.tasteofhome.com/recipes/feta-stuffed-peppers)
 * ["Rice"](http://www.reddit.com/r/Frugal/comments/2dga1n/what_are_some_recipes_with_beans_and_rice/cjp9dlp)
 * [Red lentil, chickpea and chilli soup](http://www.bbcgoodfood.com/recipes/333614/red-lentil-chickpea-and-chilli-soup) via @Sarah_Woolley
 * [Unicorn Tears](https://medium.com/stuff-and-more-stuff/making-a-unicorn-tear-dc25dd9a1c79)
