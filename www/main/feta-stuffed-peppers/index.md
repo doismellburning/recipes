@@ -2,6 +2,17 @@
 layout: recipe
 title: Feta-Stuffed Peppers
 source_url: http://www.tasteofhome.com/recipes/feta-stuffed-peppers
+ingredients:
+    - 3 large green peppers
+    - 200g minced lamb
+    - 1 chopped onion
+    - 1 can chopped tomatoes, drained
+    - Spinach
+    - 1 handful risotto rice
+    - 2 tablespoons oregano
+    - 1/4 teaspoon salt
+    - 1/4 teaspoon pepper
+    - Feta
 ---
 
 ## Timings
@@ -11,19 +22,6 @@ source_url: http://www.tasteofhome.com/recipes/feta-stuffed-peppers
 ## Servings
 
 3
-
-## Ingredients
-
-* 3 large green peppers
-* 200g minced lamb
-* 1 chopped onion
-* 1 can chopped tomatoes, drained
-* Spinach
-* 1 handful risotto rice
-* 2 tablespoons oregano
-* 1/4 teaspoon salt
-* 1/4 teaspoon pepper
-* Feta
 
 ## Method
 
