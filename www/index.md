@@ -19,6 +19,16 @@ Your milage may vary; I like them.
     {% endfor %}
 </ul>
 
+## Side Dishes
+
+<ul>
+    {% for recipe in site.side_dishes %}
+        <li>
+            <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+        </li>
+    {% endfor %}
+</ul>
+
 ## Desserts
 
 <ul>
