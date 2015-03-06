@@ -6,6 +6,8 @@ description: "Recipes collected by doismellburning"
 baseurl: ""
 url: "http://recipes.doismellburning.co.uk"
 
+google_analytics_tracking_id: UA-26478746-3
+
 # Build settings
 markdown: kramdown
 permalink: pretty
