@@ -9,3 +9,13 @@ url: "http://recipes.doismellburning.co.uk"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+    main_meals:
+        output: true
+    side_dishes:
+        output: true
+    desserts:
+        output: true
+    misc:
+        output: true
