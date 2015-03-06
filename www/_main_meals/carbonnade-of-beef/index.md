@@ -70,4 +70,6 @@ This traditional casserole made from British beef is cooked in rich, dark beer a
 
 ## Cook's tips
 
-Alternatively, cook the carbonnade covered, on the hob, for 1-2 hours on a low heat, stirring occasionally. Take care not to let it boil. Finish in the oven as described in step 4. To freeze, make to the end of step 3, allow to cool then freeze. Defrost in the fridge for 24 hours. Place the dish on the hob on a low heat and bring to a simmer. Add the croûtes and finish as directed in step 4.
+Alternatively, cook the carbonnade covered, on the hob, for 1-2 hours on a low heat, stirring occasionally. Take care not to let it boil. Finish in the oven with the baguette.
+
+To freeze, make to just before the baguette stage, allow to cool then freeze. Defrost in the fridge for 24 hours. Place the dish on the hob on a low heat and bring to a simmer. Add the baguette and finish in the oven.
