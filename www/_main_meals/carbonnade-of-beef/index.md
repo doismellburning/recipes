@@ -1,6 +1,7 @@
 ---
 layout: recipe
 source: Waitrose
+source_url: http://www.waitrose.com/home/recipes/recipe_directory/c/carbonnade_of_beef_with_wholegrain_mustard_croutes.html
 title: Carbonnade of Beef with Wholegrain Mustard Croutes
 ---
 
