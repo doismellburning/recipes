@@ -29,3 +29,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Salmon Candy](https://imgur.com/a/W7iaB)
 * [Dipping sauces](https://www.reddit.com/r/Cooking/comments/2p995f/dipping_sauces_for_steamed_vegetables/)
 * [Lamb steaks with crispy potatoes & minted beans](http://www.bbcgoodfood.com/recipe/lamb-steaks-crispy-potatoes-minted-beans)
+* [Side of salmon with a dill crust](https://www.homemadebyyou.co.uk/recipes/main-courses/side-of-salmon-with-a-dill-crust)
