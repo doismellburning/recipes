@@ -7,7 +7,6 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 
 * [Mary-Ellen McTague's stress-free dinner party recipes](http://www.theguardian.com/lifeandstyle/2014/jun/13/easy-dinner-party-recipes-mary-ellen-mctague)
 * [Chile Sin Carne](http://principiagastronomica.com/post/5) via @hyper_linda
-* [Spanish Beef](http://www.goodtoknow.co.uk/recipes/531276/spanish-beef)
 * ["Definitely not a Mexican recipe"](http://www.drmaciver.com/2014/08/definitely-not-a-mexican-recipe/)
 * ["Rice"](http://www.reddit.com/r/Frugal/comments/2dga1n/what_are_some_recipes_with_beans_and_rice/cjp9dlp)
 * [Red lentil, chickpea and chilli soup](http://www.bbcgoodfood.com/recipes/333614/red-lentil-chickpea-and-chilli-soup) via @Sarah_Woolley
