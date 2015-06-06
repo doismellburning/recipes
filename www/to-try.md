@@ -39,3 +39,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Moscato Blackberry Ice Cream](http://sugarspunrun.com/moscato-blackberry-ice-cream)
 * [Nutella Cream Cheese Blondies](http://sugarspunrun.com/nutella-cream-cheese-blondie-bars)
 * [Chocolate Chip Cookie Brittle](http://sugarspunrun.com/chewy-chocolate-chip-cookie-brittle)
+* [Misc interesting BBQ recipes](https://www.reddit.com/r/Cooking/comments/38edgm/what_is_the_oddest_thing_you_like_cooking_on_a/)
