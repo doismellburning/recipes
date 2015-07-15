@@ -41,3 +41,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Chocolate Chip Cookie Brittle](http://sugarspunrun.com/chewy-chocolate-chip-cookie-brittle)
 * [Misc interesting BBQ recipes](https://www.reddit.com/r/Cooking/comments/38edgm/what_is_the_oddest_thing_you_like_cooking_on_a/)
 * [Gnocchi with poppy seeds, salted butter and icing sugar](http://www.msmarmitelover.com/2015/07/a-czech-recipe-gnocchi-with-poppy-seeds.html)
+* [Pseudo-paella](http://omnomfrickinnom.com/rice/comfort/food/2015/07/15/paella/)
