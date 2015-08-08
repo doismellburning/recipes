@@ -6,4 +6,4 @@ clean:
 
 deploy:
 	bundle exec jekyll build
-	s3cmd sync _site/ s3://recipes.doismellburning.co.uk/
+	aws --profile doismellburning --region eu-west-1 s3 sync --acl public-read _site/ s3://recipes.doismellburning.co.uk/
