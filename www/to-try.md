@@ -42,3 +42,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Misc interesting BBQ recipes](https://www.reddit.com/r/Cooking/comments/38edgm/what_is_the_oddest_thing_you_like_cooking_on_a/)
 * [Gnocchi with poppy seeds, salted butter and icing sugar](http://www.msmarmitelover.com/2015/07/a-czech-recipe-gnocchi-with-poppy-seeds.html)
 * [Pseudo-paella](http://omnomfrickinnom.com/rice/comfort/food/2015/07/15/paella/)
+* [Welsh Cakes](https://currantaffairsuk.wordpress.com/2014/03/11/welsh-cakes/)
