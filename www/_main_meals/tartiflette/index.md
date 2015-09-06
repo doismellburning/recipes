@@ -31,3 +31,4 @@ source_url: http://www.bbc.co.uk/food/recipes/tartiflette_59096
 
 * The first time I made this, I undercooked the potatoes (the bacon mixture cooked a lot faster, the potatoes felt like they were taking *ages*). This was sad. Slicing before boiling appears to work much better.
 * I've yet to make this with Reblochon/shallots due to laziness/convenience - cheddar and onions appear to work perfectly well.
+* It's a resilient recipe, so I'm lazy with measurements - I use 350g cheese, 300ml cream and 225g lardons, because those are the packaged units
