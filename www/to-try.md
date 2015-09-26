@@ -44,3 +44,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Pseudo-paella](http://omnomfrickinnom.com/rice/comfort/food/2015/07/15/paella/)
 * [Welsh Cakes](https://currantaffairsuk.wordpress.com/2014/03/11/welsh-cakes/)
 * [Spiced Shepherd's Pie](http://www.dailymail.co.uk/home/you/article-3235567/Simply-Nigella-Indian-spiced-shepherd-s-pie.html)
+* [Keralan Fish Curry](http://www.bbcgoodfood.com/recipes/2150645/fishermans-curry)
