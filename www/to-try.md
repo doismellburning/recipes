@@ -46,3 +46,4 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Spiced Shepherd's Pie](http://www.dailymail.co.uk/home/you/article-3235567/Simply-Nigella-Indian-spiced-shepherd-s-pie.html)
 * [Keralan Fish Curry](http://www.bbcgoodfood.com/recipes/2150645/fishermans-curry)
 * [Rice Pudding](http://smittenkitchen.com/blog/2009/01/vanilla-almond-rice-pudding/)
+* [Pie!](http://www.radiotimes.com/news/2015-09-16/great-british-bake-off-2015-recipes-signature-pie-challenge)
