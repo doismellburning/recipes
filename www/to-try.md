@@ -47,3 +47,6 @@ Recipes I've been meaning to try / recipes I have tried and not written up / pot
 * [Keralan Fish Curry](http://www.bbcgoodfood.com/recipes/2150645/fishermans-curry)
 * [Rice Pudding](http://smittenkitchen.com/blog/2009/01/vanilla-almond-rice-pudding/)
 * [Pie!](http://www.radiotimes.com/news/2015-09-16/great-british-bake-off-2015-recipes-signature-pie-challenge)
+* [More pie](http://www.bbc.co.uk/food/recipes/indian_hot-water_crust_81459)
+* [Yet more pie](http://www.bbc.co.uk/food/recipes/indian_chicken_pie_73681)
+* [Mmm, pie](http://www.bbc.co.uk/food/recipes/spiced_pork_pie_with_00059)
