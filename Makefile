@@ -6,6 +6,9 @@ serve:
 clean:
 	rm -rf _site
 
-deploy:
+.PHONY: build
+build:
 	bundle exec jekyll build
+
+deploy: build
 	aws --profile doismellburning --region eu-west-1 s3 sync --acl public-read _site/ s3://recipes.doismellburning.co.uk/
